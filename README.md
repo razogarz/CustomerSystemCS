@@ -8,3 +8,5 @@ The app can be run from Terminal from the 'CustomerSystemCS/.' directory, using 
 <li> Open the Terminal </li>
 <li> Go to the project directory, more specifically '<your path>/CustomerSystemCS/.' </li>
 <li> Type 'dotnet run', if you've successfully installed and configured dotnet </li>
+</ol>
+It's a console application and it should run in a few seconds time.
